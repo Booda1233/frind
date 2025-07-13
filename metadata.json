@@ -1,0 +1,6 @@
+{
+  "name": "Your Virtual Friend",
+  "description": "An AI-powered chat application where you can talk to your virtual best friend. Customize their name, share images, and enjoy a supportive, fun conversation that's always saved for you. The friend adapts to your language while keeping a warm personality.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
